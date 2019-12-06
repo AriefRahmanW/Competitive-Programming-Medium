@@ -1,2 +1,2 @@
 # Competitive-Programming-Medium
-Hackerrank Difficulty = Easy
+Hackerrank Difficulty = Medium
